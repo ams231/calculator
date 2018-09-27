@@ -14,3 +14,6 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+)https://dev.azure.com/shobhandevops/calculator/_apis/build/status/ams231.calculator)](https://dev.azure.com/shobhandevops/calculator/_build/latest?definitionId=1)
+
+[(https://dev.azure.com/shobhandevops/calculator/_apis/build/status/ams231.calculator)](https://dev.azure.com/shobhandevops/calculator/_build/latest?definitionId=1)
